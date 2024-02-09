@@ -1,4 +1,6 @@
-<img align="center" src="./images/hand" width="80px" alt="👋">
+<div align="center">
+    <img src="./images/hand" width="100px" alt="👋">
+</div>
 <h1 align="center">Hi, guys!</h1>
 
 <p align="center">
