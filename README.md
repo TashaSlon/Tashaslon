@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/TashaSlon/Tashaslon/blob/master/hand" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="https://github.com/TashaSlon/Tashaslon/blob/master/hand" width="80px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
